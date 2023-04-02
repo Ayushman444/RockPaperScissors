@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*align works in direction of flex and justify works in perpendicular to it*/
+    justify-content: center;
+}
+
+
+button{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
